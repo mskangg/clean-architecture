@@ -1,0 +1,9 @@
+# API Path
+api:
+  path: /api/v1.0
+
+open:
+  api:
+    serviceKey: cu03dzuQrkk2pMstfI5wWGvz8MQMTo6o4fyzOAT%2FMslyzdVzx%2FahUo63OHeQ%2FDqV6qxavb5%2FA8O3f5dDUPdAJw%3D%3D
+    url: http://apis.data.go.kr/B552584/UlfptcaAlarmInqireSvc
+    returnType: json
